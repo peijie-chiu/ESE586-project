@@ -6,7 +6,9 @@ Paper lists
 - [Deep J-Sense: Accelerated MRI Reconstruction via Unrolled Alternating Optimization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8767765/)
 - [PALMNUT: An Enhanced Proximal Alternating Linearized Minimization Algorithm with Application to Separate Regularization of Magnitude and Phase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386764/)
 - [Motion compensated generalized reconstruction for free-breathing dynamic contrast-enhanced MRI](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.22644)
-- []()
+- [Physics-based reconstruction methods for magnetic resonance imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8107652/)
+- [Efficient Regularized Field Map Estimation in 3D MRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7943027/)
+- [Improved simultaneous multislice cardiac MRI using readout concatenated k-space SPIRiT (ROCK-SPIRiT)](Improved simultaneous multislice cardiac MRI using readout concatenated k-space SPIRiT (ROCK-SPIRiT))
 
 ### Optimization & Machine Learning
 - [Plug-and-Play Priors for Model Based Reconstruction](https://engineering.purdue.edu/~bouman/Plug-and-Play/webdocs/GlobalSIP2013a.pdf)
@@ -16,3 +18,4 @@ Paper lists
 - [MoDL: Model Based Deep Learning Architecture for Inverse Problems](https://arxiv.org/pdf/1712.02862.pdf)
 - [Deep Residual Learning for Accelerated MRI using Magnitude and Phase Networks](https://arxiv.org/pdf/1804.00432.pdf)
 - [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/pdf/1803.04189.pdf)
+- [J-MoDL: Joint Model-Based Deep Learning for Optimized Sampling and Reconstruction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7893809/)
