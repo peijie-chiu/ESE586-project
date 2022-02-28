@@ -2,6 +2,7 @@
 Paper lists
 
 ### Motion-Correction & Parallel Imaging 
+- [ESPIRiT--an eigenvalue approach to autocalibrating parallel MRI: where SENSE meets GRAPPA](https://pubmed.ncbi.nlm.nih.gov/23649942/)
 - [Structured Low-Rank Algorithms: Theory, Magnetic Resonance Applications, and Links to Machine Learning](https://pubmed.ncbi.nlm.nih.gov/35027816/)
 - [Deep J-Sense: Accelerated MRI Reconstruction via Unrolled Alternating Optimization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8767765/)
 - [PALMNUT: An Enhanced Proximal Alternating Linearized Minimization Algorithm with Application to Separate Regularization of Magnitude and Phase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386764/)
