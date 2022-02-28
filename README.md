@@ -8,7 +8,7 @@ Paper lists
 - [Motion compensated generalized reconstruction for free-breathing dynamic contrast-enhanced MRI](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.22644)
 - [Physics-based reconstruction methods for magnetic resonance imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8107652/)
 - [Efficient Regularized Field Map Estimation in 3D MRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7943027/)
-- [Improved simultaneous multislice cardiac MRI using readout concatenated k-space SPIRiT (ROCK-SPIRiT)](Improved simultaneous multislice cardiac MRI using readout concatenated k-space SPIRiT (ROCK-SPIRiT))
+- [Improved simultaneous multislice cardiac MRI using readout concatenated k-space SPIRiT (ROCK-SPIRiT)](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28680)
 
 ### Optimization & Machine Learning
 - [Plug-and-Play Priors for Model Based Reconstruction](https://engineering.purdue.edu/~bouman/Plug-and-Play/webdocs/GlobalSIP2013a.pdf)
