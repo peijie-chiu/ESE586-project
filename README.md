@@ -8,5 +8,11 @@ Paper lists
 - [Motion compensated generalized reconstruction for free-breathing dynamic contrast-enhanced MRI](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.22644)
 - []()
 
-### Optimization
--[Plug-and-Play Priors for Model Based Reconstruction](https://engineering.purdue.edu/~bouman/Plug-and-Play/webdocs/GlobalSIP2013a.pdf)
+### Optimization & Machine Learning
+- [Plug-and-Play Priors for Model Based Reconstruction](https://engineering.purdue.edu/~bouman/Plug-and-Play/webdocs/GlobalSIP2013a.pdf)
+- [Plug-and-play methods provably converge with properly trained denoisers](https://arxiv.org/pdf/1905.05406.pdf)
+- [ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing](https://arxiv.org/pdf/1706.07929.pdf)
+- [Deep ADMM-Net for Compressive Sensing MRI](https://papers.nips.cc/paper/2016/file/1679091c5a880faf6fb5e6087eb1b2dc-Paper.pdf)
+- [MoDL: Model Based Deep Learning Architecture for Inverse Problems](https://arxiv.org/pdf/1712.02862.pdf)
+- [Deep Residual Learning for Accelerated MRI using Magnitude and Phase Networks](https://arxiv.org/pdf/1804.00432.pdf)
+- [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/pdf/1803.04189.pdf)
