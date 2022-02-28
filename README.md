@@ -1,6 +1,9 @@
 # ESE586-project
 Paper lists
 
+### MRI Basics
+- [MRI tutorials](https://www.mriquestions.com/index.html)
+
 ### Motion-Correction & Parallel Imaging 
 - [ESPIRiT--an eigenvalue approach to autocalibrating parallel MRI: where SENSE meets GRAPPA](https://pubmed.ncbi.nlm.nih.gov/23649942/)
 - [Structured Low-Rank Algorithms: Theory, Magnetic Resonance Applications, and Links to Machine Learning](https://pubmed.ncbi.nlm.nih.gov/35027816/)
