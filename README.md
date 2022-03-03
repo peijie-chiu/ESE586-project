@@ -25,3 +25,6 @@ Paper lists
 - [J-MoDL: Joint Model-Based Deep Learning for Optimized Sampling and Reconstruction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7893809/)
 - [The Little Engine that Could: Regularization by Denoising (RED)](https://arxiv.org/abs/1611.02862)
 
+### Key Paper Options
+- [Eigenvector-based SPIRiT Parallel MR Imaging Reconstruction based on ℓp pseudo-norm Joint Total Variation](https://www.sciencedirect.com/science/article/abs/pii/S0730725X18305733)
+- [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/pdf/1803.04189.pdf)
