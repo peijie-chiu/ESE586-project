@@ -23,5 +23,5 @@ Paper lists
 - [Deep Residual Learning for Accelerated MRI using Magnitude and Phase Networks](https://arxiv.org/pdf/1804.00432.pdf)
 - [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/pdf/1803.04189.pdf)
 - [J-MoDL: Joint Model-Based Deep Learning for Optimized Sampling and Reconstruction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7893809/)
+- [The Little Engine that Could: Regularization by Denoising (RED)](https://arxiv.org/abs/1611.02862)
 
-jbhhb
