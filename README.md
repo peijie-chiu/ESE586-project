@@ -1,5 +1,6 @@
 # ESE586-project
-Paper lists
+
+## Paper lists
 
 ### MRI Basics
 - [MRI tutorials](https://www.mriquestions.com/index.html)
@@ -28,3 +29,12 @@ Paper lists
 ### Key Paper Options
 - [Eigenvector-based SPIRiT Parallel MR Imaging Reconstruction based on ℓp pseudo-norm Joint Total Variation](https://www.sciencedirect.com/science/article/abs/pii/S0730725X18305733)
 - [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/pdf/1803.04189.pdf)
+
+### Sparse MRI Reconstruction Review Papers
+- [Sparse Reconstruction Techniques in Magnetic Resonance Imaging](https://journals.lww.com/investigativeradiology/Fulltext/2016/06000/Sparse_Reconstruction_Techniques_in_Magnetic.1.aspx)
+- [Reducing acquisition time in clinical MRI by data undersampling and compressed sensing reconstruction](https://iopscience.iop.org/article/10.1088/0031-9155/60/21/R297)
+
+## Open MRI Datasets
+- [fastMRI](https://fastmri.med.nyu.edu)
+  - [paper](https://arxiv.org/abs/1811.08839)
+- [IXI Dataset](http://brain-development.org/ixi-dataset/)
