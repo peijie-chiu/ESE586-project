@@ -49,3 +49,4 @@
 - [Deep Learning–based Method for Denoising and Image Enhancement in Low-Field MRI](https://ieeexplore.ieee.org/abstract/document/9651441?casa_token=6fZwjoxnvE0AAAAA:nGtNBTksUmuSoW9RwaFZQghu4COz5TcKoSK2o331xhH7m3YttDq9n49dNZyZplqpFeg80GPmTtue)
 - [Deflated preconditioned Conjugate Gradient methods for noise filtering of low-field MR images](https://www.sciencedirect.com/science/article/pii/S0377042721003526)
 - [A Dictionary Learning Approach for Joint Reconstruction and Denoising in Low Field Magnetic Resonance Imaging](https://ieeexplore.ieee.org/abstract/document/9576932?casa_token=c8lsd383K34AAAAA:bs1SuWhNDUFeadcF9_hkRfkeWZ7GHRPXHWHi5c9A40JMShPWEPC7hfKg__1t6qtDFaC18cpjDQUI)
+- [Low-Field MRI: How Low Can We Go? A Fresh View on an Old Debate](https://www.frontiersin.org/articles/10.3389/fphy.2020.00172/full)
