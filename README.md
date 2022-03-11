@@ -34,6 +34,11 @@
 - [Sparse Reconstruction Techniques in Magnetic Resonance Imaging](https://journals.lww.com/investigativeradiology/Fulltext/2016/06000/Sparse_Reconstruction_Techniques_in_Magnetic.1.aspx)
 - [Reducing acquisition time in clinical MRI by data undersampling and compressed sensing reconstruction](https://iopscience.iop.org/article/10.1088/0031-9155/60/21/R297)
 
+### Deep-learning based Sparse MRI reconstruction
+- [AI-Based Reconstruction for Fast MRI—A Systematic Review and Meta-Analysis](https://ieeexplore.ieee.org/abstract/document/9703109)
+- [Accelerating magnetic resonance imaging via deep learning](https://ieeexplore.ieee.org/abstract/document/7493320)
+- [Deep residual learning for compressed sensing MRI](https://ieeexplore.ieee.org/document/7950457)
+
 ## Open MRI Datasets
 - [fastMRI](https://fastmri.med.nyu.edu)
   - [paper](https://arxiv.org/abs/1811.08839)
