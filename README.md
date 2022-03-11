@@ -47,3 +47,4 @@
 
 ## Low-field MRI
 - [Deep Learning–based Method for Denoising and Image Enhancement in Low-Field MRI](https://ieeexplore.ieee.org/abstract/document/9651441?casa_token=6fZwjoxnvE0AAAAA:nGtNBTksUmuSoW9RwaFZQghu4COz5TcKoSK2o331xhH7m3YttDq9n49dNZyZplqpFeg80GPmTtue)
+- [Deflated preconditioned Conjugate Gradient methods for noise filtering of low-field MR images](https://www.sciencedirect.com/science/article/pii/S0377042721003526)
