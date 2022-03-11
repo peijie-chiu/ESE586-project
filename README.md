@@ -33,6 +33,7 @@
 ### Sparse MRI Reconstruction Review Papers
 - [Sparse Reconstruction Techniques in Magnetic Resonance Imaging](https://journals.lww.com/investigativeradiology/Fulltext/2016/06000/Sparse_Reconstruction_Techniques_in_Magnetic.1.aspx)
 - [Reducing acquisition time in clinical MRI by data undersampling and compressed sensing reconstruction](https://iopscience.iop.org/article/10.1088/0031-9155/60/21/R297)
+- [Compressed sensing MRI: a review from signal processing perspective] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7412677/)
 
 ### Deep-learning based Sparse MRI reconstruction
 - [AI-Based Reconstruction for Fast MRI—A Systematic Review and Meta-Analysis](https://ieeexplore.ieee.org/abstract/document/9703109)
