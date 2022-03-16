@@ -50,6 +50,7 @@ axes = axes.flatten()
 for ax in axes:
     ax.axis(False)
 
+plt.suptitle("Under-sampled K-space Phantom Demo")
 # plt.tight_layout()
 plt.subplots_adjust(hspace=0.3, wspace=0.01)
 # plt.show()
