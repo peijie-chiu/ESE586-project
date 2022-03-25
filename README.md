@@ -29,6 +29,7 @@
 #### Key Paper Options
 - [Eigenvector-based SPIRiT Parallel MR Imaging Reconstruction based on ℓp pseudo-norm Joint Total Variation](https://www.sciencedirect.com/science/article/abs/pii/S0730725X18305733)
 - [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/pdf/1803.04189.pdf)
+- [Noise2Void - Learning Denoising from Single Noisy Images](https://arxiv.org/pdf/1811.10980.pdf)
 
 #### Sparse MRI Reconstruction Review Papers
 - [Sparse Reconstruction Techniques in Magnetic Resonance Imaging](https://journals.lww.com/investigativeradiology/Fulltext/2016/06000/Sparse_Reconstruction_Techniques_in_Magnetic.1.aspx)
