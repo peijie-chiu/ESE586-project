@@ -48,6 +48,10 @@
 - [A Dictionary Learning Approach for Joint Reconstruction and Denoising in Low Field Magnetic Resonance Imaging](https://ieeexplore.ieee.org/abstract/document/9576932?casa_token=c8lsd383K34AAAAA:bs1SuWhNDUFeadcF9_hkRfkeWZ7GHRPXHWHi5c9A40JMShPWEPC7hfKg__1t6qtDFaC18cpjDQUI)
 - [Low-Field MRI: How Low Can We Go? A Fresh View on an Old Debate](https://www.frontiersin.org/articles/10.3389/fphy.2020.00172/full)
 
+#### Motion artifact simulation for MRI image
+- [Deep Learning in MR Motion Correction: a Brief Review and a New Motion Simulation Tool (view2Dmotion)](https://pc.i-mri.org/pdf/10.13104/imri.2020.24.4.196)
+- Matlab code of view2Dmotion (https://github.com/Yonsei-MILab/MRI-Motion-Artifact-Simulation-Tool)
+
 ## Open MRI Datasets
 - [fastMRI](https://fastmri.med.nyu.edu)
   - [paper](https://arxiv.org/abs/1811.08839)
