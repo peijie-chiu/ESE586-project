@@ -61,6 +61,6 @@
 ![Drag Racing](under_sampled.jpg)
 
 ## To-Do Lists
-- [ ] 1. Train Noise2Noise
+- [x] 1. Train Noise2Noise
 - [ ] 2. Train a UNet for image denoising
 - [ ] 3. Implement quantative evaluation
