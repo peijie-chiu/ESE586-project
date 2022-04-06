@@ -60,7 +60,7 @@
 ## Demo Under-sampled K-space with a Bernoulli process
 ![Drag Racing](under_sampled.jpg)
 
-To-Do Lists
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+## To-Do Lists
+- [ ] 1. Train Noise2Noise
+- [ ] 2. Train a UNet for image denoising
+- [ ] 3. Implement quantative evaluation
