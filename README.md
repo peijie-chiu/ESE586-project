@@ -53,8 +53,8 @@
 - Matlab code of view2Dmotion (https://github.com/Yonsei-MILab/MRI-Motion-Artifact-Simulation-Tool)
 
 ## Open MRI Datasets
-- [fastMRI](https://fastmri.med.nyu.edu)
-  - [paper](https://arxiv.org/abs/1811.08839)
+<!-- - [fastMRI](https://fastmri.med.nyu.edu)
+  - [paper](https://arxiv.org/abs/1811.08839) -->
 - [IXI Dataset](http://brain-development.org/ixi-dataset/)
 
 ## Demo Under-sampled K-space with a Bernoulli process
@@ -64,7 +64,8 @@
 
 - [Final Report](https://www.overleaf.com/1526824623cdxcszvjjdcx)
 
-## To-Do Lists
+<!-- ## To-Do Lists
 - [x] 1. Train Noise2Noise
 - [ ] 2. Train a UNet for image denoising
 - [ ] 3. Implement quantative evaluation
+ -->
