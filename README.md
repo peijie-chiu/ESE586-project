@@ -60,6 +60,10 @@
 ## Demo Under-sampled K-space with a Bernoulli process
 ![Drag Racing](under_sampled.jpg)
 
+## Documentation
+
+- [Final Report](https://www.overleaf.com/1526824623cdxcszvjjdcx)
+
 ## To-Do Lists
 - [x] 1. Train Noise2Noise
 - [ ] 2. Train a UNet for image denoising
