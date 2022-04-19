@@ -1,6 +1,9 @@
 import numpy as np
 import torch
+import math
 
+def psnr(source, target):
+    return -10.0 * math.log10(np.mean((source- target)**2)) 
 
 def fftshift2d(x:np.ndarray, ifft=False) -> np.ndarray:
     """
@@ -17,9 +20,9 @@ def fftshift3d(x:torch.Tensor, ifft=False) -> torch.Tensor:
     """
     Shift the zero frequency to the center of the K-space
     """
-    assert (len(x.shape) == 3) and all([(s % 2 == 1) for s in x.shape])
-    s0 = (x.size[1] // 2) + (0 if ifft else 1)
-    s1 = (x.size[2] // 2) + (0 if ifft else 1)
+    assert (len(x.size()) == 3)
+    s0 = (x.size(1) // 2) + (0 if ifft else 1)
+    s1 = (x.size(2) // 2) + (0 if ifft else 1)
     x = torch.cat([x[:, s0:, :], x[:, :s0, :]], dim=1)
     x = torch.cat([x[:, :, s1:], x[:, :, :s1]], dim=2)
     return x
@@ -48,8 +51,8 @@ def sampleKspace(spec, p_at_edge=0.025):
     r = (r[0][:, np.newaxis] + r[1][np.newaxis, :]) ** .5
     m = (p_at_edge ** (1./h[1])) ** r
 
-    print('Bernoulli probability at edge = %.5f' % m[h[0], 0])
-    print('Average Bernoulli probability = %.5f' % np.mean(m))
+    # print('Bernoulli probability at edge = %.5f' % m[h[0], 0])
+    # print('Average Bernoulli probability = %.5f' % np.mean(m))
 
     keep = (np.random.uniform(0.0, 1.0, size=spec.shape) ** 2 < m)
     keep = keep & keep[::-1, ::-1]
